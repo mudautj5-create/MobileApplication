@@ -18,3 +18,17 @@ Developer: John Dube_ST10509254
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/f82d12f6-b49c-4af7-9d73-e4e6ce9d3256" />
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/300a47e8-85ac-45c3-9712-c598d7eac5ee" />
 The above pictures are showing the Mobile Application running and also pictures of codes to indeed work was manuallly done
+
+## Implemented screens and interactions
+- Splash / onboarding
+- Home dashboard with package and activity cards
+- Adventure package list with category filters
+- Package detail
+- Individual activities list
+- Activity detail
+- Booking details form with date, group type and participant counter
+- My bookings with remove actions and automatic multi-booking discount
+- Quote review and send confirmation
+- About
+- Contact form
+- Bottom navigation
